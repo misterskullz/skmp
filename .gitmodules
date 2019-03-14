@@ -1,0 +1,51 @@
+[submodule "mobs_nssm"]
+	path = mobs_nssm
+	url = https://github.com/misterskullz/mobs_nssm.git
+[submodule "hud_hunger"]
+	path = hud_hunger
+	url = https://github.com/misterskullz/hud_hunger.git
+[submodule "season"]
+	path = season
+	url = https://github.com/misterskullz/season.git
+[submodule "bags"]
+	path = bags
+	url = https://github.com/misterskullz/bags.git
+[submodule "simple_skins"]
+	path = simple_skins
+	url = https://github.com/misterskullz/simple_skins.git
+[submodule "ambience"]
+	path = ambience
+	url = https://github.com/misterskullz/ambience.git
+[submodule "falling_item"]
+	path = falling_item
+	url = https://github.com/misterskullz/falling_item.git
+[submodule "vines"]
+	path = vines
+	url = https://github.com/misterskullz/vines.git
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://github.com/misterskullz/mobs_redo.git
+[submodule "bees"]
+	path = bees
+	url = https://github.com/misterskullz/bees.git
+[submodule "mobs_animal"]
+	path = mobs_animal
+	url = https://github.com/misterskullz/mobs_animal.git
+[submodule "mobs_monster"]
+	path = mobs_monster
+	url = https://github.com/misterskullz/mobs_monster.git
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://github.com/misterskullz/mobs_npc.git
+[submodule "stamina"]
+	path = stamina
+	url = https://github.com/misterskullz/stamina.git
+[submodule "mob_horse"]
+	path = mob_horse
+	url = https://github.com/misterskullz/mob_horse.git
+[submodule "tempidity"]
+	path = tempidity
+	url = https://github.com/misterskullz/tempidity.git
+[submodule "lumberjack"]
+	path = lumberjack
+	url = https://github.com/misterskullz/lumberjack.git
