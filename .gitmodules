@@ -49,3 +49,174 @@
 [submodule "lumberjack"]
 	path = lumberjack
 	url = https://github.com/misterskullz/lumberjack.git
+[submodule "boost_cart"]
+	path = boost_cart
+	url = https://github.com/misterskullz/boost_cart.git
+[submodule "exchange_shop"]
+	path = exchange_shop
+	url = https://github.com/misterskullz/exchange_shop.git
+[submodule "upgrade_packs"]
+	path = upgrade_packs
+	url = https://github.com/misterskullz/upgrade_packs.git
+[submodule "simple_protection"]
+	path = simple_protection
+	url = https://github.com/misterskullz/simple_protection.git
+[submodule "technic"]
+	path = technic
+	url = https://github.com/misterskullz/technic.git
+[submodule "drawers"]
+	path = drawers
+	url = https://github.com/misterskullz/drawers.git
+[submodule "craftguide"]
+	path = craftguide
+	url = https://github.com/misterskullz/craftguide.git
+[submodule "simplecrafting_lib"]
+	path = simplecrafting_lib
+	url = https://github.com/misterskullz/simplecrafting_lib.git
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/misterskullz/moreores.git
+[submodule "smartfs"]
+	path = smartfs
+	url = https://github.com/misterskullz/smartfs.git
+[submodule "item_drop"]
+	path = item_drop
+	url = https://github.com/misterskullz/item_drop.git
+[submodule "sk_step_height"]
+	path = sk_step_height
+	url = https://github.com/misterskullz/sk_step_height.git
+[submodule "drinks"]
+	path = drinks
+	url = https://github.com/misterskullz/drinks.git
+[submodule "hbsprint"]
+	path = hbsprint
+	url = https://github.com/misterskullz/hbsprint.git
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/misterskullz/unified_inventory.git
+[submodule "warps"]
+	path = warps
+	url = https://github.com/misterskullz/warps.git
+[submodule "beverage"]
+	path = beverage
+	url = https://github.com/misterskullz/beverage.git
+[submodule "anvil"]
+	path = anvil
+	url = https://github.com/misterskullz/anvil.git
+[submodule "wielded_light"]
+	path = wielded_light
+	url = https://github.com/misterskullz/wielded_light.git
+[submodule "crops"]
+	path = crops
+	url = https://github.com/misterskullz/crops.git
+[submodule "ancientrunes"]
+	path = ancientrunes
+	url = https://github.com/misterskullz/ancientrunes.git
+[submodule "ropes"]
+	path = ropes
+	url = https://github.com/misterskullz/ropes.git
+[submodule "moretrees"]
+	path = moretrees
+	url = https://github.com/misterskullz/moretrees.git
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://github.com/misterskullz/pipeworks.git
+[submodule "radiant_damage"]
+	path = radiant_damage
+	url = https://github.com/misterskullz/radiant_damage.git
+[submodule "playeranim"]
+	path = playeranim
+	url = https://github.com/misterskullz/playeranim.git
+[submodule "frame"]
+	path = frame
+	url = https://github.com/misterskullz/frame.git
+[submodule "steel"]
+	path = steel
+	url = https://github.com/misterskullz/steel.git
+[submodule "throwing"]
+	path = throwing
+	url = https://github.com/misterskullz/throwing.git
+[submodule "ts_furniture"]
+	path = ts_furniture
+	url = https://github.com/misterskullz/ts_furniture.git
+[submodule "currency"]
+	path = currency
+	url = https://github.com/misterskullz/currency.git
+[submodule "ccompass"]
+	path = ccompass
+	url = https://github.com/misterskullz/ccompass.git
+[submodule "mydoors"]
+	path = mydoors
+	url = https://github.com/misterskullz/mydoors.git
+[submodule "skybox"]
+	path = skybox
+	url = https://github.com/misterskullz/skybox.git
+[submodule "inspector"]
+	path = inspector
+	url = https://github.com/misterskullz/inspector.git
+[submodule "lightning"]
+	path = lightning
+	url = https://github.com/misterskullz/lightning.git
+[submodule "sounding_line"]
+	path = sounding_line
+	url = https://github.com/misterskullz/sounding_line.git
+[submodule "airtanks"]
+	path = airtanks
+	url = https://github.com/misterskullz/airtanks.git
+[submodule "signs_lib"]
+	path = signs_lib
+	url = https://github.com/misterskullz/signs_lib.git
+[submodule "jumping"]
+	path = jumping
+	url = https://github.com/misterskullz/jumping.git
+[submodule "nightandday"]
+	path = nightandday
+	url = https://github.com/misterskullz/nightandday.git
+[submodule "flowerpot"]
+	path = flowerpot
+	url = https://github.com/misterskullz/flowerpot.git
+[submodule "ts_doors"]
+	path = ts_doors
+	url = https://github.com/misterskullz/ts_doors.git
+[submodule "ts_paper"]
+	path = ts_paper
+	url = https://github.com/misterskullz/ts_paper.git
+[submodule "camera"]
+	path = camera
+	url = https://github.com/misterskullz/camera.git
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/misterskullz/player_monoids.git
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/misterskullz/wiki.git
+[submodule "armor_monoid"]
+	path = armor_monoid
+	url = https://github.com/misterskullz/armor_monoid.git
+[submodule "emote"]
+	path = emote
+	url = https://github.com/misterskullz/emote.git
+[submodule "tutor"]
+	path = tutor
+	url = https://github.com/misterskullz/tutor.git
+[submodule "loot"]
+	path = loot
+	url = https://github.com/misterskullz/loot.git
+[submodule "global_exchange"]
+	path = global_exchange
+	url = https://github.com/misterskullz/global_exchange.git
+[submodule "coloured_nametag"]
+	path = coloured_nametag
+	url = https://github.com/misterskullz/coloured_nametag.git
+[submodule "cozy"]
+	path = cozy
+	url = https://github.com/misterskullz/cozy.git
+[submodule "sedimentology"]
+	path = sedimentology
+	url = https://github.com/misterskullz/sedimentology.git
+[submodule "zombies"]
+	path = zombies
+	url = https://github.com/misterskullz/zombies.git
+[submodule "mymulch"]
+	path = mymulch
+	url = https://github.com/misterskullz/mymulch.git
