@@ -220,3 +220,75 @@
 [submodule "mymulch"]
 	path = mymulch
 	url = https://github.com/misterskullz/mymulch.git
+[submodule "minetest_barchairs"]
+	path = minetest_barchairs
+	url = https://github.com/misterskullz/minetest_barchairs
+[submodule "barchairs"]
+	path = barchairs
+	url = https://github.com/misterskullz/minetest_barchairs
+[submodule "bell"]
+	path = bell
+	url = https://github.com/misterskullz/bell.git
+[submodule "cannons"]
+	path = cannons
+	url = https://github.com/misterskullz/cannons.git
+[submodule "doc"]
+	path = doc
+	url = https://github.com/misterskullz/doc.git
+[submodule "fallen_nodes"]
+	path = fallen_nodes
+	url = https://github.com/misterskullz/fallen_nodes.git
+[submodule "farming_redo"]
+	path = farming_redo
+	url = https://github.com/misterskullz/farming_redo.git
+[submodule "hangglider"]
+	path = hangglider
+	url = https://github.com/misterskullz/hangglider.git
+[submodule "hudbars"]
+	path = hudbars
+	url = https://github.com/misterskullz/hudbars.git
+[submodule "orienteering"]
+	path = orienteering
+	url = https://github.com/misterskullz/orienteering.git
+[submodule "inventory_icon"]
+	path = inventory_icon
+	url = https://github.com/misterskullz/inventory_icon.git
+[submodule "itemshelf"]
+	path = itemshelf
+	url = https://github.com/misterskullz/itemshelf.git
+[submodule "locks"]
+	path = locks
+	url = https://github.com/misterskullz/locks.git
+[submodule "screwdriver2"]
+	path = screwdriver2
+	url = https://github.com/misterskullz/screwdriver2.git
+[submodule "stained_glass"]
+	path = stained_glass
+	url = https://github.com/misterskullz/stained_glass.git
+[submodule "ma_pops_furniture"]
+	path = ma_pops_furniture
+	url = https://github.com/misterskullz/ma_pops_furniture.git
+[submodule "mobf_trader"]
+	path = mobf_trader
+	url = https://github.com/misterskullz/mobf_trader.git
+[submodule "mobs_humans"]
+	path = mobs_humans
+	url = https://github.com/misterskullz/mobs_humans.git
+[submodule "multihome"]
+	path = multihome
+	url = https://github.com/misterskullz/multihome.git
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/misterskullz/travelnet.git
+[submodule "snowdrift"]
+	path = snowdrift
+	url = https://github.com/misterskullz/snowdrift.git
+[submodule "shooter"]
+	path = shooter
+	url = https://github.com/misterskullz/shooter.git
+[submodule "wield3d"]
+	path = wield3d
+	url = https://github.com/misterskullz/wield3d.git
+[submodule "meshnode"]
+	path = meshnode
+	url = https://github.com/misterskullz/meshnode.git
