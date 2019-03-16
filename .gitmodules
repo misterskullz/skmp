@@ -292,3 +292,21 @@
 [submodule "meshnode"]
 	path = meshnode
 	url = https://github.com/misterskullz/meshnode.git
+[submodule "concrete"]
+	path = concrete
+	url = https://github.com/misterskullz/concrete.git
+[submodule "extranodes"]
+	path = extranodes
+	url = https://github.com/misterskullz/extranodes.git
+[submodule "technic_chests"]
+	path = technic_chests
+	url = https://github.com/misterskullz/technic_chests.git
+[submodule "technic_cnc"]
+	path = technic_cnc
+	url = https://github.com/misterskullz/technic_cnc.git
+[submodule "technic_worldgen"]
+	path = technic_worldgen
+	url = https://github.com/misterskullz/technic_worldgen.git
+[submodule "wrench"]
+	path = wrench
+	url = https://github.com/misterskullz/wrench.git
