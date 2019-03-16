@@ -310,3 +310,9 @@
 [submodule "wrench"]
 	path = wrench
 	url = https://github.com/misterskullz/wrench.git
+[submodule "hud"]
+	path = hud
+	url = https://github.com/misterskullz/hud.git
+[submodule "hunger"]
+	path = hunger
+	url = https://github.com/misterskullz/hunger.git
