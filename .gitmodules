@@ -316,3 +316,6 @@
 [submodule "hunger"]
 	path = hunger
 	url = https://github.com/misterskullz/hunger.git
+[submodule "sfinv_buttons"]
+	path = sfinv_buttons
+	url = https://github.com/misterskullz/sfinv_buttons.git
